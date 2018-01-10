@@ -2,9 +2,9 @@
 ***
 ## this project is for K POP fans!
 ***
-<>
-Just follow these steps
-<>
+
+##Just follow these steps
+
 
 - Register
 - Participate the lottery
