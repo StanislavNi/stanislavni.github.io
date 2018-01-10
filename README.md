@@ -3,7 +3,7 @@
 ## this project is for K POP fans!
 ***
 
-##Just follow these steps
+## Just follow these steps
 
 
 - Register
@@ -12,8 +12,8 @@
 - Meet your favourite star
 ***
 
-#Don't loose your chance!
-###Come with us!
+# Don't loose your chance!
+### Come with us!
 ***
 Mail:example.gmail.com
 Phone:777999888
