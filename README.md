@@ -6,10 +6,10 @@
 Just follow these steps
 <>
 
-*Register
-*Participate the lottery
-*Win it
-*Meet your favourite star
+- Register
+- Participate the lottery
+- Win it
+- Meet your favourite star
 ***
 
 #Don't loose your chance!
